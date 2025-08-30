@@ -1,4 +1,6 @@
-Privacy Policy
+Prometheus App - Privacy Policy
+
+This page is provided by Siyang Fan, the developer of Prometheus App, as listed on Google Play.
 
 1. Information We Collect
 
@@ -33,6 +35,11 @@ You have the right to access, correct, or delete your personal information.
 
 For privacy inquiries, please contact us at sfan@ucc.ie.
 
-6. Policy Updates
+6. Account Deletion Request
+If you would like to request deletion of your account and associated personal data from Prometheus App, please contact us by email at: sfan@ucc.ie.  
+Alternatively, you may also submit a request via this form: https://forms.office.com/e/EPGxnEus4e  
+We will verify your request and delete your account and data within 3 days, except where retention is required by law.
+
+7. Policy Updates
 
 This Privacy Policy may be updated from time to time. Updates will be posted in the App or on the website.
