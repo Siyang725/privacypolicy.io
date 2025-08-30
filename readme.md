@@ -36,6 +36,7 @@ You have the right to access, correct, or delete your personal information.
 For privacy inquiries, please contact us at sfan@ucc.ie.
 
 6. Account Deletion Request
+
 If you would like to request deletion of your account and associated personal data from Prometheus App, please contact us by email at: sfan@ucc.ie.  
 
 Alternatively, you may also submit a request via this form: https://forms.office.com/e/EPGxnEus4e  
