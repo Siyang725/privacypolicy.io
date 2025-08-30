@@ -1,6 +1,6 @@
 Prometheus App - Privacy Policy
 
-This page is provided by Siyang Fan, the developer of Prometheus App, as listed on Google Play.
+This page is provided by Simon Woodworth, the developer of Prometheus App, as listed on Google Play.
 
 1. Information We Collect
 
